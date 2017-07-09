@@ -1,0 +1,8 @@
+.secondfooter{
+	text-align: center;
+	text-decoration: none;
+}
+.navbar-inverse{
+border-radius: 30px;
+background-color: #fff;
+}
